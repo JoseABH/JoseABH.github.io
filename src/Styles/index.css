@@ -311,16 +311,18 @@ header a:hover{
 
     .B_index{
         width: 90%;
+        border-top: 5px solid #2b86ff;
     }
     
     .B_acercade{
         font-size: 1.4rem;
-        
+        border-top: 5px solid #2b86ff;
     }
 
     .B_conjuntos{
         justify-content: space-evenly;
         align-items: center;
+        border-top: 5px solid #2b86ff;
     }
 
     .BotonMenu{
