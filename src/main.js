@@ -1,4 +1,3 @@
-
 function Salir() {
     if (window.close) {
         window.close();

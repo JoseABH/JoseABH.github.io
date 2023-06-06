@@ -39,7 +39,7 @@ function main() {
     let result;
 
     if (
-      operation === SetOperations.intersection ||
+      operation === SetOperations.difference ||
       operation === SetOperations.complement
     ) {
       if (
